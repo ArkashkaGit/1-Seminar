@@ -1,4 +1,10 @@
-﻿Console.Write("Enter first number = ");
+﻿/*Задача 2: Напишите программу, которая на вход принимает 
+два числа и выдаёт максимальное из этих чисел.
+a = 5; b = 7 -> max = 7
+a = 2 b = 10 -> max = 10
+a = -9 b = -3 -> max = -3*/
+
+Console.Write("Enter first number = ");
 int first = int.Parse(Console.ReadLine());
 
 Console.Write("Enter second number = ");

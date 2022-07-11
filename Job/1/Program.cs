@@ -18,6 +18,5 @@ if (second > first)
 
 if(first == second)
 {
-    Console.Write("max number first");
-    Console.Write(" " + first);
+    Console.Write("fitst = second");
 }
